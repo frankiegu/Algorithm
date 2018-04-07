@@ -19,11 +19,11 @@ typora-root-url: Markdown图片资源
 
 <!-- GFM-TOC -->
 
-- [一、 前言](https://github.com/kilingzhang/Algorithm/blob/master/phper重学数据结构与算法之路)
+- [一、 前言](https://github.com/kilingzhang/Algorithm/blob/master/phper重学数据结构与算法之路.md)
 
-- [一、 数据结构与算法-算法分析](https://github.com/kilingzhang/Algorithm/blob/master/数据结构与算法-算法分析)
+- [一、 数据结构与算法-算法分析](https://github.com/kilingzhang/Algorithm/blob/master/数据结构与算法-算法分析.md)
 
-  - [算法分析](https://github.com/kilingzhang/Algorithm/blob/master/数据结构与算法-算法分析/#算法分析)
+  - [算法分析](https://github.com/kilingzhang/Algorithm/blob/master/数据结构与算法-算法分析.md/#算法分析)
 
 - [参考资料](#参考资料)
 
@@ -34,4 +34,4 @@ typora-root-url: Markdown图片资源
 
 <!-- GFM-TOC -->
 
-![avatar](avatar (1).png)
+![avatar()](avatar (1).png)
